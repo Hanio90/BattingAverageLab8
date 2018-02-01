@@ -1,0 +1,7 @@
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\bin\Debug\BattingAverageLAB8.exe.config
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\bin\Debug\BattingAverageLAB8.exe
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\bin\Debug\BattingAverageLAB8.pdb
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\obj\Debug\BattingAverageLAB8.csprojResolveAssemblyReference.cache
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\obj\Debug\BattingAverageLAB8.csproj.CoreCompileInputs.cache
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\obj\Debug\BattingAverageLAB8.exe
+C:\Users\hanio\source\repos\BattingAverageLAB8\BattingAverageLAB8\obj\Debug\BattingAverageLAB8.pdb
